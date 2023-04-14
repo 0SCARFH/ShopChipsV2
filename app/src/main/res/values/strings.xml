@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ShopChips</string>
+    <string name="location">Ubicacion:</string>
+    <string name="description">Descripcion :</string>
+    <string name="shop_name">Nombre de la Sucursal</string>
+    <string name="register">Unirte a ShopChips</string>
+    <string name="log_in">Logeate</string>
+    <string name="sign_up">Iniciar sesion</string>
+    <string name="cancel">Cancelar</string>
+    <string name="product_name">Tipo de papas</string>
+    <string name="price">Costo:</string>
+    <string name="more">Mas</string>
+    <string name="less">Menos</string>
+    <string name="add_to_cart">Añadir</string>
+    <string name="view_your_cart">Ver carrito</string>
+    <string name="place_order">lugar de orden</string>
+    <string name="use_your_location">compartir ubicacion</string>
+    <string name="use_another_location">otra ubicacion </string>
+    <string name="another_location">tercera ubicacion</string>
+    <string name="your_profile">perfil</string>
+    <string name="username">Usuario:</string>
+    <string name="e_mail">E-mail:</string>
+    <string name="phone_number">Telefono:</string>
+</resources>
